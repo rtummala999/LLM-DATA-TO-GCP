@@ -5,7 +5,7 @@ LLM-DATA-TO-GCP
 
 ## Overview
 
-Langchain Server is a FastAPI application that provides an API for generating FAQs about medical diseases using the OpenAI GPT model. The server interacts with Google Cloud Storage to store generated FAQ data and provides a RESTful API to access the information.
+API for generating FAQs about medical diseases using the OpenAI GPT model. The server interacts with Google Cloud Storage to store generated FAQ data and provides a RESTful API to access the information.
 
 ## Features
 
